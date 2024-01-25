@@ -29,11 +29,11 @@ To run this project locally, make sure you have Flutter installed. If not, you c
 
 If you'd like to contribute to this project, follow these steps:
 
-Fork the repository.
-Create a new branch for your feature: git checkout -b feature-name.
-Commit your changes: git commit -m 'Add some feature'.
-Push to the branch: git push origin feature-name.
-Submit a pull request.
+- Fork the repository.
+- Create a new branch for your feature: git checkout -b feature-name.
+- Commit your changes: git commit -m 'Add some feature'.
+- Push to the branch: git push origin feature-name.
+- Submit a pull request.
 
 
-Cheers, Happy fluttering
+## Cheers, Happy fluttering
