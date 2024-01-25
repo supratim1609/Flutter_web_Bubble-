@@ -1,16 +1,39 @@
-# bubble_test
+# Flutter Web Bubbles App
 
-A new Flutter project.
+This is a simple Flutter web application created for experimenting with Flutter Web. The app renders random bubbles on the screen.
+
+## Table of Contents
+
+- [Features](#features)
+- [Getting Started](#getting-started)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
+
+## Features
+
+- Randomly generated bubbles on the screen.
+- Flutter web application.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+To run this project locally, make sure you have Flutter installed. If not, you can [install Flutter](https://flutter.dev/docs/get-started/install).
 
-A few resources to get you started if this is your first Flutter project:
+1. Clone this repository:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+   ```bash
+   git clone https://github.com/your-username/flutter-web-bubbles.git
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+## Contributing
+
+If you'd like to contribute to this project, follow these steps:
+
+Fork the repository.
+Create a new branch for your feature: git checkout -b feature-name.
+Commit your changes: git commit -m 'Add some feature'.
+Push to the branch: git push origin feature-name.
+Submit a pull request.
+
+
+Cheers, Happy fluttering
